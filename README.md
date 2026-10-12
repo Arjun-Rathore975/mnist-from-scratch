@@ -36,13 +36,6 @@ To run locally instead, download `train.csv` from the [competition page](https:/
 
 **Requirements:** `numpy`, `pandas`, `matplotlib`
 
-## What's next
-
-- [ ] Bigger hidden layer + He initialisation
-- [ ] Mini-batch gradient descent
-- [ ] Second hidden layer with hand-written backprop
-- [ ] Draw-your-own-digit web demo
-
 ## Credits
 
 Based on Samson Zhang's video [Building a neural network FROM SCRATCH](https://www.youtube.com/watch?v=w8yWXqWQYmU), with fixes to softmax numerical stability and the bias gradients.
