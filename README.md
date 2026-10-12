@@ -22,7 +22,7 @@ A simple two-layer neural network trained on the [MNIST](https://www.kaggle.com/
 
 ## Results
 
-- Dev set accuracy: **~XX%** on 1,000 held-out images
+- Dev set accuracy: **~85%** on 1,000 held-out images
 
 ## Running it
 
